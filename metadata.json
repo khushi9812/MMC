@@ -1,0 +1,6 @@
+{
+  "name": "CivicPermit AI - Municipal Permit Eligibility Checker",
+  "description": "Automated conversational AI and rule-based municipal permit eligibility checker streamlining public services for building, food service, events, solar, and business permits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
